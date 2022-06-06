@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://instagram.com/AlikyshkinL">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 </div>
