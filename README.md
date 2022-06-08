@@ -35,7 +35,7 @@ The code of the sites I developed is in private repositories to maintain confide
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Alikyshkin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alikyshkin&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alikyshkin&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alikyshkin&theme=dark&layout=compact&hide_border=true)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alikyshkin&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
