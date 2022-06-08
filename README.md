@@ -16,8 +16,11 @@
   <a href="https://youtube.com/c/Alikyshkin">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://instagram.com/AlikyshkinL">
+  <a href="https://instagram.com/Alikyshkin">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:Alikyshkin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 </div>
