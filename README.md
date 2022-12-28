@@ -17,7 +17,7 @@
   <a href="https://youtube.com/c/Alikyshkin">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://instagram.com/Alikyshkin">
+  <a href="https://instagram.com/solitudemoi">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:Alikyshkin@gmail.com">
