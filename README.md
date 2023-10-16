@@ -4,7 +4,7 @@
   <h1>
   Hi, I'm Kuznetsova Alika
 </h1>
-<p>I am a third year Informational systems & technologies student at ITMO University, Russia</p>
+<p>I am a fourth year Informational systems & technologies student at ITMO University, Russia</p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alikyshkin&label=Profile%20views&color=ce9927&style=flat" alt="Alikyshkin" /> </p>
   
   <div id="badges">
