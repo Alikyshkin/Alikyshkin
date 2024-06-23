@@ -4,7 +4,7 @@
   <h1>
   Hi, I'm Kuznetsova Alika
 </h1>
-<p>I am a fourth year Informational systems & technologies student at ITMO University, Russia</p>
+<p>I am a ITMO University graduate</p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alikyshkin&label=Profile%20views&color=ce9927&style=flat" alt="Alikyshkin" /> </p>
   
   <div id="badges">
@@ -17,7 +17,7 @@
   <a href="https://youtube.com/c/Alikyshkin">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://instagram.com/solitudemoi">
+  <a href="https://instagram.com/Alikyshkin">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:Alikyshkin@gmail.com">
@@ -27,7 +27,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-At the moment I am a full-stack website developer with more than three years of experience. I develop websites from working out the structure, its content and design to writing code, speeding up, launching and SEO optimization. 
+At the moment I am a full-stack website developer with more than four years of experience. I develop websites from working out the structure, its content and design to writing code, speeding up, launching and SEO optimization. 
 
 Portfolio - https://sitebyme.ru
 
